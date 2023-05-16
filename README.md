@@ -11,7 +11,6 @@
 
 - [Description](#description)
 - [Author Info](#author-info)
-- [Arduino Connections](https://ahmetkoca.com.tr/github/rfid-with-csharp/arduino-connections.png)
 
 ---
 
