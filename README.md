@@ -1,6 +1,6 @@
 # Captcha Project csharp
 
-![Project Image](https://ahmetkoca.com.tr/github/captcha-project/captcha.png)
+![Project Image](https://ahmetkoca.dev/github/captcha-project/captcha.png)
 
 
 
